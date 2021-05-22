@@ -1,4 +1,4 @@
-# CI/CD & Docker Challenge
+# CI/CD & Docker challenge
 ---
 
 ## CASE-STUDY
